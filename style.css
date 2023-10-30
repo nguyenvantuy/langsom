@@ -2404,3 +2404,12 @@ margin-right: -1585px;
 .info-track_introduct-main__body{
   margin-top: 80px;
 }
+
+.container-bgred .btn-container_bgred a{
+  text-decoration: none;
+  color: #F4D58D;
+}
+
+.slider-pro_main-list_img-small-pro_content a{
+  text-decoration: none;
+}
