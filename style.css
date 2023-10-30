@@ -2413,3 +2413,19 @@ margin-right: -1585px;
 .slider-pro_main-list_img-small-pro_content a{
   text-decoration: none;
 }
+
+
+.owl-carousel__title-list_product-item a{
+  color: white;
+  text-decoration: none;
+}
+
+.container-sign_in-forgotpw .sign-in_sign-up a{
+  text-decoration: none;
+  color: white;
+}
+
+.container-sign_in-forgotpw .sign-in_forgot-passwork a{
+  text-decoration: none;
+  color: white;
+}
