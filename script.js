@@ -124,3 +124,14 @@
 // }
 
 //  slideList.addEventListener("mousemove", dragging);
+
+
+// $(document).ready(function(){
+//     $('.slide-conten-home').slick(
+//         {   
+//             infinite: true,
+//             slidesToShow: 1,
+//             slidesToScroll: 3
+//         }
+//     )
+//   });

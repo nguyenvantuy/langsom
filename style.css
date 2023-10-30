@@ -2429,3 +2429,51 @@ margin-right: -1585px;
   text-decoration: none;
   color: white;
 }
+
+.slide-conten-home{color: white;}
+
+
+.slide-conten-home_item{
+  display: flex;
+  margin-left: 450px;
+  position: relative;
+  margin-top: 150px;
+}
+
+.slide-conten-home_item-content{
+  width: 40%;
+  margin-top: 250px;
+}
+
+.slide-conten-home_item-content h1{
+  color: #F4D58D;
+}
+
+.slide-conten-home_item-btn button{
+  border: 1px solid #F4D58D;
+  border-radius: 20px;
+  background-color: transparent;
+  color: #F4D58D;
+  padding: 8px 8px;
+}
+
+.slide-conten-home_item-next-prev{
+  position: absolute;
+  z-index: 5;
+  width: 100%;
+  display: flex;
+}
+
+.slide-conten-home_item-next{
+   transform: translateY(-50%);
+   margin-top: -280px;
+}
+
+.slide-conten-home_item-prev{
+    margin-left: 1600px;
+    margin-top: -450px;
+}
+
+.slide-conten-home_item-dot{
+  margin-left: 80px;
+}
